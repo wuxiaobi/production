@@ -363,3 +363,4 @@ MigrationBackup/
 FodyWeavers.xsd
 /api/生产模块-cache
 /api/生产模块.aip
+/api/Setup Files/生产模块.msi
